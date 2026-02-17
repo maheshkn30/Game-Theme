@@ -1,10 +1,11 @@
-# Game Theme 
+# Game Theme Web Page 🎮
 
 A Static Web page built using **HTML**, **CSS**.
 
-# Revised 
+# Revised
+
 Revised CSS Flexbox, hover effects, transitions, transforms, and basic HTML & CSS.
 
-## Demo Link
+# 🚀 Live Demo
 
 https://maheshkn30.github.io/Game-Theme
